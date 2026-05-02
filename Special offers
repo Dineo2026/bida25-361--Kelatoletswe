@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Special Offers - RoomBooking.com</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>RoomBooking.com</h1>
+    <nav>
+      <a href="index.html">Home</a> 
+      <a href="room-gallery.html">Rooms</a> 
+      <a href="offers.html">Offers</a> 
+      <a href="about.html">About Us</a> 
+      <a href="contact.html">Contact</a> 
+      <a href="login.html">Login</a>
+    </nav>
+  </header>
+
+  <!-- Special Offers Section -->
+  <section>
+    <h2>Special Offers</h2>
+
+    <article>
+      <h3>20% Discount</h3>
+      <p>Enjoy 20% off all rooms when you book online this month.</p>
+    </article>
+
+    <article>
+      <h3>Weekend Package</h3>
+      <p>Stay 2 nights and get the 3rd night free. Perfect for family getaways.</p>
+    </article>
+
+  
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2026 RoomBooking.com | Privacy Policy | Terms & Conditions</p>
+  </footer>
+
+</body>
+</html>
