@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Room Gallery - RoomBooking.com</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>RoomBooking.com</h1>
+    <nav>
+      <a href="index.html">Home</a> |
+      <a href="room-gallery.html">Rooms</a> |
+      <a href="offers.html">Offers</a> |
+      <a href="about.html">About Us</a> |
+      <a href="contact.html">Contact</a> |
+      <a href="login.html">Login</a>
+    </nav>
+  </header>
+
+  <!-- Room Gallery -->
+  <section>
+    <h2>Available Rooms</h2>
+
+    <!-- Deluxe Room -->
+    <article>
+      <h3>Deluxe Room</h3>
+      <img src="images/deluxe-room.jpg" alt="Deluxe Room" width="300">
+      <p>Price: P500 per night</p>
+      <p>Amenities: WiFi, Air Conditioning, Balcony</p>
+      <a href="deluxe-details.html">View Details</a>
+    </article>
+
+    <!-- Standard Room -->
+    <article>
+      <h3>Standard Room</h3>
+      <img src="images/standard-room.jpg" alt="Standard Room" width="300">
+      <p>Price: P280 per night</p>
+      <p>Amenities: WiFi, TV, Mini Fridge</p>
+      <a href="standard-details.html">View Details</a>
+    </article>
+
+    <!-- Suite -->
+    <article>
+      <h3>Suite</h3>
+      <img src="images/suite.jpg" alt="Suite Room" width="300">
+      <p>Price: P1000 per night</p>
+      <p>Amenities: WiFi, Air Conditioning, Kitchenette</p>
+      <a href="suite-details.html">View Details</a>
+    </article>
+
+
+
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2026 RoomBooking.com | Privacy Policy | Terms & Conditions</p>
+  </footer>
+
+</body>
+</html>
